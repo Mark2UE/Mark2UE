@@ -34,3 +34,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Mark Manliclic">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ksidjp2mdwr4jsyd3msm7d3jm" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
