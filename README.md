@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mark2UE/Mark2UE/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mark2UE/snake.yml" alt="Snake animation" />
 
 ###
 
