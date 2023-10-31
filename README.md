@@ -69,9 +69,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/315ksidjp2mdwr4jsyd3msm7d3jm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ksidjp2mdwr4jsyd3msm7d3jm&count=9&unique=true" alt="Spotify recently played"  />
-  </a>
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6RZnaTfbuPa5TKoz36IbKl?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 ###
